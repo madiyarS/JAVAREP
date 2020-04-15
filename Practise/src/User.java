@@ -9,7 +9,7 @@ public class User {
         User.setName(input);
 
         input = n.next();
-        User.setEmail(input);
+        User.setEmail(input);// very good code I agree
 
         System.out.println("Name: " + User.getName());
 
